@@ -8,7 +8,7 @@ Jiaxi Zhou,  Xinyao Wang, Zihui Zhou, Yue Hu, Qinwei Zhang
 
 Affiliation: MSOR Department, Columbia University
 
-## Mentors/Project-Managers
+## Mentors/Project-Managers:
 * Prof. Michael Robbins (Columbia University)
 * Nicole Soder (TA; Project Manager; Columbia University)
 * Naomi Ohashi, PMP (Project Manager; FNLCR)
