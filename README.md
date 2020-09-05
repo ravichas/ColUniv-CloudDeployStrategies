@@ -6,7 +6,7 @@ Sharable, Interactive, and Reproducible Environments (SIRE) for knowledge transf
 ## Project Team: 
 Jiaxi Zhou,  Xinyao Wang, Zihui Zhou, Yue Hu, Qinwei Zhang
 
-Affiliation: IEOR Department, Columbia University
+Affiliation: MSOR Department, Columbia University
 
 ## Mentors/Project-Managers
 * Prof. Michael Robbins (Columbia University)
