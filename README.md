@@ -1,6 +1,6 @@
 # Sharable, Interactive, and Reproducible Environments (SIRE) for knowledge transfer (SIRE4CapTransfer)
 
-## Project: 
+## Project Title: 
 Cloud Deployment, Optimization Strategies for Teaching, Training and Collaborative Reproducible Research
 
 ## Project Team: 
