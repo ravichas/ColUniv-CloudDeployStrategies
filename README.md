@@ -1,7 +1,7 @@
-# ColUniv-SIRE4CapTransfer
+# Sharable, Interactive, and Reproducible Environments (SIRE) for knowledge transfer (SIRE4CapTransfer)
 
 ## Project: 
-Sharable, Interactive, and Reproducible Environments (SIRE) for knowledge transfer
+Cloud Deployment, Optimization Strategies for Teaching, Training and Collaborative Reproducible Research
 
 ## Project Team: 
 Jiaxi Zhou,  Xinyao Wang, Zihui Zhou, Yue Hu, Qinwei Zhang
